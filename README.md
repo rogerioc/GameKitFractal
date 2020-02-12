@@ -1,4 +1,4 @@
-# sampleGamekiiFractal
+# Simple GameKit Fractal
 A simple use iOS Game Kit to render a fractal
 
 **Screenshots**
